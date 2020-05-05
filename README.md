@@ -1,4 +1,6 @@
-﻿@[TOC](【深度学习入门】Paddle实现人脸检测和表情识别（基于YOLO和ResNet18）)
+（本文写于CSDN，欢迎关注我的主页~）
+
+博主QQ：1691608003
 
 博主主页：[https://blog.csdn.net/weixin_44936889](https://blog.csdn.net/weixin_44936889)
 
